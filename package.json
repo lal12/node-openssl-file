@@ -1,0 +1,34 @@
+{
+  "name": "openssl-file",
+  "version": "1.0.0",
+  "description": "A Javascript library for node, to enable it to encrypt and decrypt files in a openssl compatible way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lal12/node-openssl-file.git"
+  },
+  "typings": "index.d.ts",
+  "keywords": [
+    "openssl",
+    "ssl",
+    "encryption",
+    "symmetric",
+    "decryption",
+    "encrypt",
+    "decrypt",
+    "cipher",
+    "decipher",
+    "file",
+    "buffer",
+    "stream"
+  ],
+  "author": "Luca Lindhorst <info@lucalindhorst.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lal12/node-openssl-file/issues"
+  },
+  "homepage": "https://github.com/lal12/node-openssl-file#readme"
+}
